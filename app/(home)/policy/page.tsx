@@ -37,8 +37,8 @@ const Policy = () => {
       <p className="mb-8">
         <strong className="font-bold">Contact Us:</strong> If you have any
         questions about these terms, please contact me at{" "}
-        <Link href="ar5102935@gmail.com" className="text-blue-600">
-          ar5102935@gmail.com
+        <Link href="" className="text-blue-600">
+          
         </Link>
         .
       </p>
